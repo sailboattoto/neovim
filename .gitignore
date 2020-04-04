@@ -1,0 +1,7 @@
+#plugged/YouCompleteMe
+#plugged/far.vim
+#plugged/vim-plug
+plugged/
+autoload/
+init1
+init2

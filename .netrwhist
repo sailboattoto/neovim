@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/sailboat/.SpaceVim.d'
+let g:netrw_dirhist_3='/home/sailboat/ThinkVim/core'
+let g:netrw_dirhist_2='/home/sailboat/ThinkVim/keybinds'
+let g:netrw_dirhist_1='/home/sailboat/.config/nvim/.git'
