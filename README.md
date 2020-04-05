@@ -27,4 +27,4 @@
 
 ## Installation
 
-	git clone https://github.com/sailboattoto/MyVIMConfig.git ~/.config/nvim
+	git clone https://github.com/sailboattoto/neovim.git ~/.config/nvim
